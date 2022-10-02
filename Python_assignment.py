@@ -20,7 +20,7 @@ prices.append(price.text)
 ratings.append(rating.text)
 
 
-#Finding the minimum pric
+#Finding the minimum price
 
 min_price = min(prices)
 print('Minimum price' , min_price)
